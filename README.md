@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Diabuddy**
 
-- 👨‍💻 All of my projects are available at [app.netlify.com/teams/3a7anton/sites](app.netlify.com/teams/3a7anton/sites)
+- 👨‍💻 All of my projects are available at [3a7anton.netlify.app](https://3a7anton.netlify.app/)
 
 - 💬 Ask me about **html,css,js and python**
 
