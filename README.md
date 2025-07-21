@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **back-end development**
 
-- 👯 I’m looking to collaborate on **Diabuddy**
+- 👯 I’m looking to collaborate on **Ai based web application**
 
 - 👨‍💻 All of my projects are available at [3a7anton.netlify.app](https://3a7anton.netlify.app/)
 
