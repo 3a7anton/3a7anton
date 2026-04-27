@@ -65,5 +65,4 @@
 
 ## 📊 GitHub Stats
 
-[![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3a7anton&show_icons=true&theme=radium&hide_border=true&v=1)](https://github.com/3a7anton)
 [![Anton's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=3a7anton&theme=radium&hide_border=true)](https://github.com/3a7anton)
